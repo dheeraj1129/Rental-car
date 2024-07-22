@@ -1,0 +1,91 @@
+[
+  {
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/5-Series-2024/10182/1685002609273/front-left-side-47.jpg",
+    "title": "BMW 300 SL",
+    "Price": "Rs 45 Lakh",
+    "class": "Sports car, GT",
+    "no_of_cylinders": 16,
+    "max_power": "215 bhp @ 4200 rpm",
+    "ground_clearance": "183 mm",
+    "body_type": "Coupe",
+    "seating_capacity": 2,
+    "engine_displacement": "5326 cc"
+  },
+
+  {
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q5/10556/1689594416925/front-left-side-47.jpg",
+    "title": "Mercedes-Benz 300 SL",
+    "Price": "Rs 53 Lakh",
+    "class": "Sports car, GT",
+    "no_of_cylinders": 6,
+    "max_power": "215 bhp @ 5800 rpm",
+    "ground_clearance": "165 mm",
+    "body_type": "Coupe",
+    "seating_capacity": 2,
+    "engine_displacement": "3932 cc"
+  },
+
+  {
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Exter/10444/1697695572037/front-left-side-47.jpg",
+
+    "title": "TATA CT",
+    "Price": "Rs 12 Lakh",
+    "class": "Sports car, GT",
+    "no_of_cylinders": 6,
+    "max_power": "215 bhp @ 5380 rpm",
+    "ground_clearance": "165 mm",
+    "body_type": "Coupe",
+    "seating_capacity": 2,
+    "engine_displacement": "1196 cc"
+  },
+
+  {
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Belta/8705/1638349887521/front-left-side-47.jpg",
+
+    "title": "Tata Curve",
+    "Price": "Rs 50 Lakh",
+    "class": "Sports car, GT",
+    "no_of_cylinders": 6,
+    "max_power": "215 bhp @ 5800 rpm",
+    "ground_clearance": "165 mm",
+    "body_type": "Coupe",
+    "seating_capacity": 2,
+    "engine_displacement": "1126 cc"
+  },
+  {
+    "image": "https://www.mychoize.com/mychoize-live/current/files/fleets/Toyota_Innova_Crysta.jpg",
+    "Price": "Rs 8.30 Lakh",
+    "class": "Sports car Roadster",
+    "no_of_cylinders": 4,
+    "max_power": "130 bhp @ 3750 rpm",
+    "ground_clearance": "226 mm",
+    "body_type": "Convertible",
+    "seating_capacity": 2,
+    "engine_displacement": "1998 cc"
+  },
+
+  {
+    "image": "https://revvselfdrivecar.s3.us-west-2.amazonaws.com/st_feb24/Swift+Dzire_ST.png",
+    "title": "Porsche Cayenne",
+    "Price": "Rs 11.0 Lakh",
+    "class": "Mid-size luxury crossover SUV",
+    "no_of_cylinders": 6,
+    "max_power": "250 bhp @ 6000 rpm",
+    "ground_clearance": "190 mm",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "engine_displacement": "2995 cc"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pontiac_G6.jpg/400px-Pontiac_G6.jpg",
+    "title": "Pontiac G6",
+    "Price": "Rs 80 Lakh",
+    "class": "Midsize",
+    "no_of_cylinders": 6,
+    "max_power": "240 bhp @ 6000 rpm",
+    "ground_clearance": "170 mm",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "engine_displacement": "3490 cc"
+  }
+]

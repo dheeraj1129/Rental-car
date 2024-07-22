@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Audi Q4 e-tron",
+    "price": "$52,000",
+    "variant": "Premium",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Countryman-SE/5191/1715669013511/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 2,
+    "name": "Hyundai Ioniq 5",
+    "price": "$45,000",
+    "variant": "Limited",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Cooper-Countryman-S/11735/1715706775882/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 3,
+    "name": "Kia EV6",
+    "price": "$48,000",
+    "variant": "GT-Line",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Curvv-EV/8935/1674203471780/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz EQC",
+    "price": "$68,000",
+    "variant": "Exclusive",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Seagull/11041/1692272519776/front-left-side-47.jpg?tr=w-360"
+  }
+]

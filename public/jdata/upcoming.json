@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tesla Model 3",
+    "Price": "$40,000",
+    "class": "Long Range",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Macan-EV/11492/Porsche-Macan-EV-Turbo/1721280699247/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Nissan Leaf",
+    "Price": "$30,000",
+    "class": "SV Plus",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Atto-3/11837/1720614766877/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Chevrolet Bolt EV",
+    "Price": "$35,000",
+    "class": "Premier",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQA/8276/1720434897900/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Hyundai Kona Electric",
+    "Price": "$38,000",
+    "class": "Ultimate",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQB/11835/1720438690709/front-left-side-47.jpg?tr=w-360"
+  }
+]

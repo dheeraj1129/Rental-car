@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Tesla Model X",
+    "price": "$90,000",
+    "variant": "Long Range",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Atto-3/11837/1720614766877/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 2,
+    "name": "Nissan Rogue",
+    "price": "$35,000",
+    "variant": "SL",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch-EV/9484/1704446706447/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 3,
+    "name": "Chevrolet Traverse",
+    "price": "$40,000",
+    "variant": "Premier",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon-EV-2023/11024/1694146347051/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "id": 4,
+    "name": "BMW X5",
+    "price": "$60,000",
+    "variant": "Base",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago-EV/6279/1676111344905/front-left-side-47.jpg?tr=w-664"
+  }
+]

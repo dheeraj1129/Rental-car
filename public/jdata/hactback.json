@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Volkswagen Golf",
+    "price": "$23,000",
+    "variant": "TDI",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Macan-EV/11492/Porsche-Macan-EV-Turbo/1721280699247/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Honda Civic Hatchback",
+    "price": "$28,000",
+    "variant": "Sport",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Atto-3/11837/1720614766877/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Mazda 3 Hatchback",
+    "price": "$26,500",
+    "variant": "Preferred",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQA/8276/1720434897900/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Ford Focus",
+    "price": "$25,450",
+    "variant": "Titanium",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQB/11835/1720438690709/front-left-side-47.jpg?tr=w-360"
+  }
+]

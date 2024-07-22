@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bentley Continental GT",
+    "price": "$220,000",
+    "variant": "W12",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Macan-EV/11492/Porsche-Macan-EV-Turbo/1721280699247/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Mercedes-Benz S-Class",
+    "price": "$110,000",
+    "variant": "S 580",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Atto-3/11837/1720614766877/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "BMW 7 Series",
+    "price": "$100,000",
+    "variant": "750i xDrive",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQA/8276/1720434897900/front-left-side-47.jpg?tr=w-360"
+  },
+  {
+    "name": "Audi A8",
+    "price": "$95,000",
+    "variant": "L 55 TFSI",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQB/11835/1720438690709/front-left-side-47.jpg?tr=w-360"
+  }
+]

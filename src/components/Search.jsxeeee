@@ -1,0 +1,45 @@
+// import React, { useEffect, useState } from "react";
+
+// function Search() {
+//   const [sett, uset] = useState([]);
+//   const [query, setqaury] = useState([]);
+
+//   useEffect(() => {
+//     fetch("./data.json")
+//       .then((res) => {
+//         if (!res.ok) {
+//           throw new Error("Network response was not ok");
+//         }
+//         return res.json();
+//       })
+//       .then((data) => {
+//         console.log("Data fetched:", data);
+//         uset(data);
+//       })
+//       .catch((error) => console.log("Fetch error:", error));
+//   }, []);
+
+//   return (
+//     <div className="w-screen h-screen rounded-3xl flex flex-col justify-center items-center">
+//       <input
+//         onChange={(e) => setqaury(e.target.value)}
+//         type="search"
+//         placeholder="Search Car Name"
+//         className="border-black border-2 px-2 h-12 w-[17rem] mb-2"
+//       />
+//       <div className="w-full m-8 h-1/2 rounded-3xl p-4 overflow-auto bg-red">
+//         {sett
+//           .filter((bike) => bike.title && bike.title.includes(query))
+//           .map((bike, index) => (
+//             <div key={index} className="p-2 border-b">
+//               {bike.title}
+//               <div className="text-sm font-semibold mb-4">{bike.class}</div>
+//               <div className="text-sm font-semibold mb-4">{bike.Price}</div>
+//             </div>
+//           ))}
+//       </div>
+//     </div>
+//   );
+// }
+
+// export default Search;
